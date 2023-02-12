@@ -1,0 +1,9 @@
+package com.kh.common;
+
+public class EncodingFilter {
+
+	public EncodingFilter() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

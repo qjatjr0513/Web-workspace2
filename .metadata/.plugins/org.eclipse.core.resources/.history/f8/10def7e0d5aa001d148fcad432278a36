@@ -1,0 +1,9 @@
+package com.kh.common;
+
+public class MyFileRenamePolicy {
+
+	public MyFileRenamePolicy() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
